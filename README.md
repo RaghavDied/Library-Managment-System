@@ -1,7 +1,7 @@
 # Library-Managment-System
 A structured Java-based Library Management System built using OOP principles and interface-driven design. Implements CRUD operations with validation and modular layering (model, service, utility) to demonstrate clean architecture and separation of concerns.
 
-## 🚀 Features
+##  Features
 - Add new books
 - View all books
 - Search books
@@ -9,18 +9,18 @@ A structured Java-based Library Management System built using OOP principles and
 - Input validation
 - Structured service-layer design
 
-## 🏗 Architecture
+##  Architecture
 - Model Layer (Book entity)
 - Service Layer (Interface + Implementation)
 - Utility Layer (Validation logic)
 - Main Driver (CLI-based interaction)
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Java
 - OOP Principles
 - Collections Framework
 
-## 📖 Concepts Demonstrated
+##  Concepts Demonstrated
 - Abstraction via interfaces
 - Encapsulation
 - Modular class design
@@ -33,3 +33,5 @@ A structured Java-based Library Management System built using OOP principles and
    javac *.java
 4. Run:
    java LibraryManangment
+
+   :)
